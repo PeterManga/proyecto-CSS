@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
      background-color: aquamarine;
      color: darkgreen;
 }
@@ -10,4 +10,24 @@ body {
 }
 .titulo-3{
     background-color: blueviolet;
+}
+h1:hover{
+    background-color: goldenrod;
+}
+a:visited{
+    color: green;
+} */
+
+.caja{
+    width: 100px;
+    height: 300px;
+    border: 2px, solid ;
+    background-color: tomato;
+}
+.seccion-caja{
+    width: 100px;
+    height: 100px;
+    border: 1px, solid, black;
+    border-radius: 50%;
+    background-color: black;
 }
