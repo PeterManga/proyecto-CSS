@@ -21,6 +21,7 @@
 /* .inpar::before{
     "\&#9817"
 } */
+
 .negro{
     display: flex;
     flex-direction: column-reverse;
